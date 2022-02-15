@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "kelso";
+    src: url(css\fonts\Roboto-Bold.ttf);
+}
+@font-face {
+    font-family:"kelso-light";
+    src: url(css\fonts\Roboto-Light.ttf);
+}
+@font-face {
+    font-family: "roboto";
+    src: url(./css/fonts/Roboto-Light.ttf);
+}
+@font-face {
+    font-family:"roboto-b" ;
+    src: url(./css/fonts/Roboto-Bold.ttf);
+}
